@@ -19,7 +19,7 @@ const Team = () => {
 
         {/* Task */}
         <Stack w={'100%'} h={'60%'} bg={'green'}>
-
+          <Text fontSize={'2xl'} color={'white'}>Esta es mi id {id}</Text>
         </Stack>
 
       </Stack>
